@@ -9,16 +9,14 @@ Welcome to OmGPT, a clone of the Gemini website built with Next.js. This project
 - [Development](#development)
 - [Building for Production](#building-for-production)
 - [Common Issues and Solutions](#common-issues-and-solutions)
-- [Folder Structure](#folder-structure)
-- [License](#license)
 
 ##** Project Setup
 **
 To get started with the project, clone the repository and install the necessary dependencies.
 
 ```
-git clone https://github.com/yourusername/omgpt.git
-cd omgpt
+git clone https://github.com/Omnani23/gemini_clone_web
+cd gemini_clone_web
 npm install 
 ```
 ## **Dependencies**
@@ -34,14 +32,14 @@ tailwind-merge
 You can install missing dependencies using:
 
 ```
-Copy code
+
 npm install @radix-ui/react-popover @google/generative-ai clsx tailwind-merge
 ```
 ## **Development**
 To start the development server, run:
 
 ```
-Copy code
+
 npm run dev
 ```
 Navigate to http://localhost:3000 to see the application in action.
@@ -79,8 +77,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
   // component code
 }
 ```
-Clearing Cache
-If you face persistent issues, try clearing the Next.js cache:
+
 
 
 

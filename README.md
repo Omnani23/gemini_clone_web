@@ -1,7 +1,8 @@
 # **OmGPT**
 
 Welcome to OmGPT, a clone of the Gemini website built with Next.js. This project uses modern web development technologies including React.js, Spring Boot, Firebase, and various UI libraries to deliver a seamless experience.
-Here is the preview of the site --- https://gemini-clone-6rr5vemca-om-prakashs-projects-598cadf5.vercel.app/
+
+Here is the preview of the site --- https://gemini-clone-web-vert.vercel.app/
 
 ## **Table of Contents**
 
